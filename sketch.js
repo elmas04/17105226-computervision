@@ -50,12 +50,14 @@ function draw() {
     
 
     image(perfect, 0, 0);
+    image.size(640, 480);
+    
 
   // Draw the label
-  fill(255);
-  textSize(16);
-  textAlign(CENTER);
-  text(label, width / 2, height - 4);
+  //fill(255);
+  //textSize(16);
+  //textAlign(CENTER);
+  //text(label, width / 2, height - 4);
   }
 }
 
