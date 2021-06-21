@@ -49,7 +49,7 @@ function draw() {
   if (label == 'Perfect'){
     
 
-    image(perfect, 300, 0);
+    image(perfect, 300, 200);
     
 
   // Draw the label
